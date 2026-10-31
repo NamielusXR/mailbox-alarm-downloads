@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "minSdk": 26,
+  "notes": "Check, download, and install updates from Settings. Includes live GPS accuracy and preserves your saved mailbox pin.",
+  "sha256": "b6ee15c413a964686aac65e86257832f6cad13143d7403ae1c1d2f2d5de19d61",
+  "size": 1951003
+}

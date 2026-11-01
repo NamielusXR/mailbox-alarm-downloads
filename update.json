@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 4,
-  "versionName": "1.1.0",
+  "versionCode": 5,
+  "versionName": "1.1.1",
   "minSdk": 26,
-  "notes": "Multiple pins, tasks and events, each with its own name, message, alarm sound and vibration setting. Choose entry or exit, a 10-5000 m distance, once-only or repeat visits, weekdays, an optional date and a local time window. Overnight windows are supported. Complete and reopen tasks; overlapping alarms play in order and survive reopening. Your saved mailbox is retained as a 50 m task. Add a reminder from the home screen or by holding on the map. Includes in-app updates and live GPS accuracy in Settings.",
-  "sha256": "579382a19cf7e32e913e6456295705994cb9a34556b677b6c16bf49d7b6c4ea9",
+  "notes": "Set any pin, task or event to a radius from 5 to 5,000 meters. A 5 m alarm waits for fresh GPS accuracy of \u00b15 m or better. Each-visit entry alarms rearm at twice their radius (10 m for a 5 m pin), so small nearby areas can be used without walking 30 m away. Small exit zones now observe a useful inner area before ringing on departure. The editor explains the accuracy requirement and the limits of GPS around a house and parked car. GPS estimates proximity; it cannot reliably detect getting inside a vehicle. Preserves saved reminders and includes live GPS accuracy and updates in Settings.",
+  "sha256": "9c880f1befbce371beec50ff3a7bb8376d8cdc69304a07e3085c091b7b20da8b",
   "size": 2773383
 }

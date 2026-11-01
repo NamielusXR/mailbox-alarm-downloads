@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.1.0",
   "minSdk": 26,
-  "notes": "Check, download, and install updates from Settings. Includes live GPS accuracy and preserves your saved mailbox pin.",
-  "sha256": "b6ee15c413a964686aac65e86257832f6cad13143d7403ae1c1d2f2d5de19d61",
-  "size": 1951003
+  "notes": "Multiple pins, tasks and events, each with its own name, message, alarm sound and vibration setting. Choose entry or exit, a 10-5000 m distance, once-only or repeat visits, weekdays, an optional date and a local time window. Overnight windows are supported. Complete and reopen tasks; overlapping alarms play in order and survive reopening. Your saved mailbox is retained as a 50 m task. Add a reminder from the home screen or by holding on the map. Includes in-app updates and live GPS accuracy in Settings.",
+  "sha256": "579382a19cf7e32e913e6456295705994cb9a34556b677b6c16bf49d7b6c4ea9",
+  "size": 2773383
 }

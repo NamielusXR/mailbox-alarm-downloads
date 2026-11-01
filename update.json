@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 5,
-  "versionName": "1.1.1",
+  "versionCode": 6,
+  "versionName": "1.1.2",
   "minSdk": 26,
-  "notes": "Set any pin, task or event to a radius from 5 to 5,000 meters. A 5 m alarm waits for fresh GPS accuracy of \u00b15 m or better. Each-visit entry alarms rearm at twice their radius (10 m for a 5 m pin), so small nearby areas can be used without walking 30 m away. Small exit zones now observe a useful inner area before ringing on departure. The editor explains the accuracy requirement and the limits of GPS around a house and parked car. GPS estimates proximity; it cannot reliably detect getting inside a vehicle. Preserves saved reminders and includes live GPS accuracy and updates in Settings.",
-  "sha256": "9c880f1befbce371beec50ff3a7bb8376d8cdc69304a07e3085c091b7b20da8b",
-  "size": 2773383
+  "notes": "Zoom eight times closer on the home map and reminder editor. Use pinch gestures or the new + / - controls. Small reminder areas now center at a closer zoom, making 5 m pins easier to see and place. At the closest levels, the available OpenStreetMap imagery is enlarged; new areas load their available tiles even when opened directly at close zoom. Preserves saved pins, tasks, events, alarms and settings. Includes 5 m reminder areas, live GPS accuracy and in-app updates.",
+  "sha256": "af558bb1cc8c66365b9f2abd9fcdbf764f7c2aedf453e38f8ef77b54beebcce1",
+  "size": 2773899
 }
